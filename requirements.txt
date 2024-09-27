@@ -1,0 +1,7 @@
+requests
+google-auth
+flask
+gcloud
+google-cloud-build
+chardet
+
